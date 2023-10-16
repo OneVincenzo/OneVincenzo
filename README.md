@@ -1,7 +1,7 @@
 - 👋 Hi, I’m VINCENZO LOMBARDO
 - 👀 I’m interested in CODING
 - 🌱 I’m currently learning PYTHON
--     I'm planning to learn some AWS / NODE.JS
+-     I'm planning to learn some AWS > NODE.JS
 - 💞️ I’m looking to collaborate on SIMPLE STUFF
 - 📫 You can reach me on HERE
 
